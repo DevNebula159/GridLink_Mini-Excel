@@ -3,6 +3,9 @@
 
 The application provides a navigable grid where you can input text or numbers and perform basic calculations like Count, Sum, and Average on the numeric entries.
 
+<img width="1919" height="1079" alt="Screenshot 2025-10-19 084059" src="https://github.com/user-attachments/assets/fe809df2-e800-4166-8741-d0dcfb6c6eef" />
+
+
 ## Features:
   Navigable Grid: Move between cells using the arrow keys.
 
